@@ -1,6 +1,15 @@
+node_modules
+.tmp
+.sass-cache
+**/bower_components or sometimes it is lib/**
+platforms
+plugins
+*.swp
+*.swo
 # Logs
 logs
 *.log
+*.DS_Store
 
 # Runtime data
 pids
